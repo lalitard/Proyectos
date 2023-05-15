@@ -1,4 +1,4 @@
 # Proyectos ESPOL
-Directorio dirigido a proyectos elaborados en la universidad
-#Proyectos estudiantiles realizados en la Espol
+#Directorio dirigido a proyectos elaborados en la universidad
 #Proyecto DAWN Desarrollo de pagina web y aplicaciones moviles
+
